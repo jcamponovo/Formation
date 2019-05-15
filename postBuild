@@ -1,6 +1,7 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
+pip install git+git://github.com/mkrphys/ipython-tikzmagic.git
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
 jupyter trust TP1.ipynb
