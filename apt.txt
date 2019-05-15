@@ -1,4 +1,5 @@
 imagemagick
+pdf2svg
 texlive-base
 texlive-pictures
 texlive-extra-utils
