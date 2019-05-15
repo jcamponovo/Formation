@@ -1,5 +1,6 @@
 texlive-base
 texlive-pictures
+texlive-extra-utils
 texlive-latex-base
 texlive-latex-recommended
 texlive-science
