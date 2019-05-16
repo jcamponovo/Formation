@@ -9,5 +9,5 @@ jupyter trust TP3.ipynb
 jupyter trust TP4.ipynb
 jupyter trust TP5.ipynb
 jupyter trust TP6.ipynb
-
-pip install git+git://github.com/mkrphys/ipython-tikzmagic.git
+jupyter trust methode_courbe.ipynb
+jupyter trust methode_modele.ipynb
