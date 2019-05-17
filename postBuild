@@ -4,6 +4,7 @@ jupyter nbextension enable python-markdown/main
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
 jupyter trust TP1.ipynb
+jupyter trust TP1JF.ipynb
 jupyter trust TP2.ipynb
 jupyter trust TP3.ipynb
 jupyter trust TP4.ipynb
